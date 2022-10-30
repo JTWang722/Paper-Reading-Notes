@@ -17,3 +17,5 @@
 - 【2022/02/26】  ConvE，一个基于卷积神经网络的KG嵌入模型。期间还调研了动态知识图谱表示学习的文章
 - 【2022/03/06】  ANALOGY，建模KG的analogy structure，双线性模型，将关系限制为normal matrix
 - 【2022/03/20】  KG-BERT，微调BERT用于KG补全
+- 【2022/10/30】    连接vscode
+- 
