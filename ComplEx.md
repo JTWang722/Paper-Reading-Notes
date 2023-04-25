@@ -97,5 +97,5 @@ $$
 
 损失函数为，公式（10）是 DistMult with real embeddings；公式（11）是实值。当 $w_r$ 是实数，函数是对称的；当 $w_r$ 是纯虚数，函数是反对称的。我们可以获得关系矩阵 X_r = re()+Im()。可以准确地描述对称和反对称关系。
 
-<img src=".\fig\complex\1.png" style="zoom:50%;" />
+<img src=".\fig\ComplEx\1.png" style="zoom:50%;" />
 
