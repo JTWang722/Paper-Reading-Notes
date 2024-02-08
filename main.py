@@ -4,7 +4,8 @@ import torch
 args = unKR.seutup_parser()
 train_sampler = unKR.import_class('UKGUniSampler')(args)
 test_sampler = unKR.import_class('UKGTestSampler')(args)
-ukgdata = unKR.import_class('UKGDataMoudle')(args, train_sampler, test_sampler)
+ukgdata = unKR.import_class('UKGDataMoudle')(args, train_sampler, 
+                                             test_sampler)
 model = unKR.import_class('PASSLEAF')(args)
 lit_model = unKR.import_class('PASSLEAFLitModel')(model, args)
 trainer = pl.Trainer.from_argparse_args(args)
