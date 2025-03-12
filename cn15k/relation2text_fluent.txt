@@ -1,0 +1,36 @@
+hasfirstsubevent	has first sub event
+partof	part of
+receivesaction	receives action
+usedfor	used for
+nothasproperty	not has property
+antonym	antonym
+formof	form of
+createdby	created by
+locatednear	located near
+motivatedbygoal	motivated by goal
+causes	causes
+hasprerequisite	has prerequisite
+notcapableof	not capable of
+synonym	synonym
+distinctfrom	distinct from
+derivedfrom	derived from
+relatedto	related to
+isa	is a
+dbpedia	dbpedia
+notdesires	not desires
+hascontext	has context
+instanceof	instance of
+desires	desires
+atlocation	at location
+madeof	made of
+mannerof	manner of
+hassubevent	has sub event
+entails	entails
+haslastsubevent	has last sub event
+similarto	similar to
+causesdesire	causes desire
+definedas	defined as
+etymologicallyrelatedto	etymologically related to
+hasproperty	has property
+hasa	has a
+capableof	capable of
